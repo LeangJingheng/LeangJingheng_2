@@ -3,12 +3,14 @@
 
 <!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=HENG&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
-</p> --> sdsfsdfsdfdssdfdsfdf
+</p> -->
 
 <!-- Name banner (animated typing text) -->
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=LEANG+JINGHENG" alt="Your Name" />
 </h1>
+
+sdsfsdfsdfdssdfdsfdf
 
 <p align="center">
   <b>Web Developer • ITC Student • Tech Enthusiast</b>
