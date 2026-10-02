@@ -10,8 +10,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=LEANG+JINGHENG" alt="Your Name" />
 </h1>
 
-sdsfsdfsdfdssdfdsfdf
-
 <p align="center">
   <b>Web Developer • ITC Student • Tech Enthusiast</b>
 </p>
